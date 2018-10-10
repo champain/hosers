@@ -1,0 +1,10 @@
+[Core]
+name = hosers
+module = hosers
+
+[Documentation]
+description = Hockey interaction plugin
+
+[Python]
+version = 3
+
